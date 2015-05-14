@@ -2,7 +2,7 @@
 layout: default
 img: ipad.png
 category: Services
-title: Let us help you<br>organize you promotions!
+title: Let us help you organize<br>your promotions!
 description: |
 ---
   Visit our [Trades Promotion Area](http://www.example.com/) for more details and case studies
